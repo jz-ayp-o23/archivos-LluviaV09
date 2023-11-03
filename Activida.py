@@ -1,1 +1,0 @@
-open(beatles.txt, modo="r", encoding=None)
